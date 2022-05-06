@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Witaj na blogu. Gratuluję !
-image: /img/home-jumbotron.jpg
+title: Witaj w naszym wirtualnym salonie fryzjerskim.
+image: /img/oko.jpg
 heading: Great coffee with a conscience
 subheading: Najlepszy fryzjer na świecie
 mainpitch:
